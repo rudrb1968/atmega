@@ -1,0 +1,22 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 16:54:06 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA168-TQ32_0_TQFP32_ATMEGA168-TQ32" is renamed to "ATMEGA168-TQ32_0_TQFP32_ATMEGA1".
+#2 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (119.38, 60.96).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (119.38, 60.96).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (119.38, 60.96).
+#5 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (119.38, 60.96).
+#6 WARNING(ORCAP-36006): Part Name "ATMEGA168-TQ32_0_MY_ATMEGA328_ATMEGA168-TQ32" is renamed to "ATMEGA168-TQ32_0_MY_ATMEGA328_A".
+#7 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (187.96, 60.96).
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (187.96, 60.96).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (187.96, 60.96).
+#10 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (187.96, 60.96).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\allegro/pstxnet.dat
+packaging the design view...

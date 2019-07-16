@@ -1,0 +1,349 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Tue Jul 16 15:58:40 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=492 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1627
+\i (00:00:04) trapsize 1598
+\i (00:00:04) trapsize 1632
+\i (00:00:05) trapsize 1442
+\i (00:00:05) trapsize 2685
+\i (00:00:05) generaledit 
+\i (00:00:12) autobundle 
+\i (00:00:15) fillin no 
+\i (00:00:15) generaledit 
+\i (00:00:16) place manual 
+\i (00:00:18) setwindow form.plc_manual
+\i (00:00:18) FORM plc_manual advanced_settings  
+\i (00:00:18) FORM plc_manual library YES 
+\i (00:00:19) FORM plc_manual placement_list  
+\i (00:00:20) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:21) FORM plc_manual advanced_settings  
+\i (00:00:24) FORM plc_manual placement_list  
+\i (00:00:25) FORM plc_manual categories Package symbols 
+\i (00:00:59) FORM plc_manual tree  'Package symbols' 
+\i (00:00:59) FORM plc_manual tree  AT_35UX 'Package symbols' 
+\i (00:01:00) FORM plc_manual tree  MOT145A 'Package symbols' 
+\i (00:01:03) FORM plc_manual tree  MOT17 'Package symbols' 
+\i (00:01:03) FORM plc_manual tree  MY_ATMEGA128 'Package symbols' 
+\i (00:01:06) FORM plc_manual done  
+\i (00:01:06) setwindow pcb
+\i (00:01:06) generaledit 
+\i (00:01:07) pick grid 230.401 284.107
+\t (00:01:07) last pick:  231.140 284.480
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 245.439 251.346
+\i (00:01:08) trapsize 2685
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 245.439 251.346
+\i (00:01:09) trapsize 1343
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 159.334 251.346
+\i (00:01:09) trapsize 671
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 159.335 251.346
+\i (00:01:09) trapsize 336
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 159.335 251.346
+\i (00:01:09) trapsize 671
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 159.335 251.346
+\i (00:01:09) trapsize 1343
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 159.334 251.347
+\i (00:01:10) trapsize 2685
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 245.439 251.346
+\i (00:01:10) trapsize 2685
+\i (00:01:10) pick grid 306.664 273.366
+\t (00:01:10) last pick:  307.340 274.320
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 208.381 346.944
+\i (00:01:12) trapsize 2685
+\i (00:01:13) place manual 
+\i (00:01:15) setwindow form.plc_manual
+\i (00:01:15) FORM plc_manual tree  'Package symbols' 
+\i (00:01:15) FORM plc_manual tree  MOT145A 'Package symbols' 
+\i (00:01:15) FORM plc_manual tree  MY_ATMEGA128 'Package symbols' 
+\i (00:01:17) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA128 'Package symbols' 
+\w (00:01:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:18) setwindow pcb
+\i (00:01:18) pick grid 160.045 214.826
+\t (00:01:18) last pick:  160.020 215.900
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 317.405 138.563
+\i (00:01:19) trapsize 2685
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 339.425 122.451
+\i (00:01:19) trapsize 2685
+\i (00:01:21) setwindow form.plc_manual
+\i (00:01:21) FORM plc_manual tree  MY_ATMEGA328 'Package symbols' 
+\i (00:01:22) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328 'Package symbols' 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) pick grid 158.971 183.139
+\t (00:01:24) last pick:  160.020 182.880
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out 355.537 133.729
+\i (00:01:24) trapsize 2685
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out 355.537 133.729
+\i (00:01:24) trapsize 2685
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out 355.537 133.729
+\i (00:01:24) trapsize 2685
+\i (00:01:29) setwindow form.plc_manual
+\i (00:01:29) FORM plc_manual tree  SC59 'Package symbols' 
+\i (00:01:29) FORM plc_manual tree  SC70 'Package symbols' 
+\i (00:01:32) FORM plc_manual tree  RES500 'Package symbols' 
+\i (00:01:36) FORM plc_manual tree 'MULTISEL YES' SSOP28_FT232 'Package symbols' 
+\w (00:01:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:36) FORM plc_manual tree  SSOP28_FT232 'Package symbols' 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) pick grid 156.286 148.767
+\t (00:01:37) last pick:  157.480 149.860
+\i (00:01:38) setwindow form.plc_manual
+\i (00:01:38) FORM plc_manual done  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 171.861 155.749
+\i (00:01:39) trapsize 1343
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 120.934 155.481
+\i (00:01:39) trapsize 671
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 148.728 186.899
+\i (00:01:40) trapsize 336
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 153.293 183.341
+\i (00:01:41) trapsize 671
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 153.159 191.264
+\i (00:01:41) trapsize 336
+\i (00:01:42) drag_start grid 146.110 192.406
+\i (00:01:42) drag_stop 183.839 169.580
+\i (00:01:43) drag_start grid 160.477 183.141
+\i (00:01:43) drag_stop grid 174.105 191.869
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 150.474 187.639
+\i (00:01:43) trapsize 168
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out 151.280 187.068
+\i (00:01:44) trapsize 336
+\i (00:01:45) prepopup 160.007 182.101
+\i (00:01:48) pick grid 147.386 187.203
+\t (00:01:48) last pick:  147.320 187.960
+\i (00:01:49) move 
+\t (00:01:49) Select element(s) to move.
+\i (00:01:49) pick grid 159.537 184.786
+\t (00:01:49) last pick:  160.020 185.420
+\t (00:01:49) last pick:  160.020 182.880
+\t (00:01:49) Pick new location for the element(s).
+\i (00:01:50) pick grid 171.756 192.104
+\t (00:01:50) last pick:  172.720 193.040
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in 169.137 190.694
+\i (00:01:50) trapsize 168
+\i (00:01:51) zoom out 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom out 168.064 190.459
+\i (00:01:51) trapsize 336
+\i (00:01:51) zoom out 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom out 160.880 191.600
+\i (00:01:51) trapsize 671
+\i (00:01:53) move 
+\t (00:01:54) Select element(s) to move.
+\i (00:01:54) pick grid 157.389 148.099
+\t (00:01:54) last pick:  157.480 147.320
+\t (00:01:54) last pick:  157.480 149.860
+\t (00:01:54) Pick new location for the element(s).
+\i (00:01:55) pick grid 151.078 192.272
+\t (00:01:55) last pick:  149.860 193.040
+\i (00:01:57) move 
+\t (00:01:57) Select element(s) to move.
+\i (00:01:57) pick grid 155.912 214.426
+\t (00:01:57) last pick:  154.940 213.360
+\t (00:01:57) last pick:  160.020 215.900
+\t (00:01:57) Pick new location for the element(s).
+\i (00:02:00) pick grid 126.239 194.286
+\t (00:02:00) last pick:  127.000 193.040
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 143.023 196.300
+\i (00:02:01) trapsize 336
+\i (00:02:02) roam y -96 
+\i (00:02:02) roam y -96
+\i (00:02:03) roam y 96 
+\i (00:02:03) roam y 96
+\i (00:02:03) roam y 96 
+\i (00:02:03) roam y 96
+\i (00:02:04) roam x -96 
+\i (00:02:04) roam x -96
+\i (00:02:04) roam x -96 
+\i (00:02:04) roam x -96
+\i (00:02:04) roam y -96 
+\i (00:02:04) roam y -96
+\i (00:02:04) roam y -96 
+\i (00:02:04) roam y -96
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 149.639 177.970
+\i (00:02:04) trapsize 168
+\i (00:02:05) roam x -96 
+\i (00:02:05) roam x -96
+\i (00:02:05) roam y 96 
+\i (00:02:05) roam y 96
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 149.606 177.601
+\i (00:02:05) trapsize 336
+\i (00:02:07) Esc 
+\i (00:02:07) pick grid 140.409 192.974
+\t (00:02:07) last pick:  139.700 193.040
+\i (00:03:39) move 
+\t (00:03:39) Select element(s) to move.
+\i (00:03:40) pick grid 171.358 194.249
+\t (00:03:40) last pick:  170.180 193.040
+\t (00:03:40) last pick:  172.720 193.040
+\t (00:03:40) Pick new location for the element(s).
+\i (00:03:41) pick grid 166.524 193.779
+\t (00:03:41) last pick:  167.640 193.040
+\i (00:03:42) move 
+\t (00:03:43) Select element(s) to move.
+\i (00:03:43) pick grid 124.633 177.533
+\t (00:03:43) last pick:  124.460 177.800
+\i (00:04:59) zoom in 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom in 145.444 196.330
+\i (00:04:59) trapsize 168
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out 140.611 192.001
+\i (00:05:01) trapsize 336
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in 141.282 191.665
+\i (00:05:01) trapsize 168
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out 141.316 191.665
+\i (00:05:01) trapsize 336
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 141.316 191.665
+\i (00:05:02) trapsize 168
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 141.316 191.665
+\i (00:05:02) trapsize 336
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 141.316 191.665
+\i (00:05:02) trapsize 168
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out 141.316 191.665
+\i (00:05:03) trapsize 336
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 141.316 191.665
+\i (00:05:03) trapsize 168
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 141.316 191.665
+\i (00:05:03) trapsize 84
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out 141.315 191.666
+\i (00:05:03) trapsize 168
+\i (00:05:42) place manual 
+\i (00:05:44) setwindow form.plc_manual
+\i (00:05:44) FORM plc_manual tree  CAP600 'Package symbols' 
+\i (00:05:44) FORM plc_manual tree  MOT145A 'Package symbols' 
+\i (00:05:45) FORM plc_manual tree  MY_ATMEGA128 'Package symbols' 
+\i (00:05:46) FORM plc_manual tree  MY_ATMEGA328 'Package symbols' 
+\i (00:05:47) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328 'Package symbols' 
+\i (00:05:54) FORM plc_manual cancel  
+\i (00:05:54) setwindow pcb
+\i (00:05:54) generaledit 
+\i (00:06:57) zoom out 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom out 153.669 188.275
+\i (00:06:57) trapsize 336
+\i (00:13:16) zoom in 1 
+\i (00:13:16) setwindow pcb
+\i (00:13:16) zoom in 153.869 191.498
+\i (00:13:16) trapsize 168
+\i (00:19:25) new 
+\e (00:19:25) Do you want to save the changes you made to unnamed.brd?
+\i (00:19:28) fillin menu_cancel 
+\i (00:19:28) generaledit 
+\i (00:20:04) quickplace 
+\e (00:20:05) ERROR(SPMHTH-24): You need to add a board geometry outline
+\i (00:20:05) generaledit 
+\i (00:20:07) quickplace 
+\e (00:20:07) ERROR(SPMHTH-24): You need to add a board geometry outline
+\i (00:20:07) generaledit 
+\i (00:20:30) net_properties 
+\i (00:20:30) setwindow cmgr
+\i (00:20:30) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:20:30) setwindow pcb
+\i (00:20:30) generaledit 
+\i (00:20:32) setwindow cmgr
+\i (00:20:32) cm exit
+\i (00:21:22) setwindow pcb
+\i (00:21:22) move 
+\t (00:21:22) Select element(s) to move.
+\i (00:21:23) pick grid 129.466 195.090
+\t (00:21:23) last pick:  129.540 195.580
+\t (00:21:23) last pick:  127.000 193.040
+\t (00:21:23) Pick new location for the element(s).
+\i (00:21:25) pick grid 130.842 193.210
+\t (00:21:25) last pick:  132.080 193.040
+\i (00:21:26) mo

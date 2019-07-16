@@ -1,0 +1,45 @@
+(ExpressProject "test"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\test.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (ATmega168-TQ32
+      (FullPartName "ATmega168-TQ32.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\LIBRARY\LIBRARY\AVR3.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Users\user\Desktop\library\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn")
+      (Path "Design Resources"
+         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "Design Cache")
+      (Select "Design Resources"
+         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "Design Cache"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 211 1851 53 518")
+        (Scroll "398 156")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

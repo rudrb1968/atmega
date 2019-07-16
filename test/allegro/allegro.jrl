@@ -1,0 +1,211 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 16:54:10 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=5268 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\allegro\TEST.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/USERS/USER/DESKTOP/EXAM/PCB_LIB/TEST/allegro/TEST.brd
+\i (00:00:03) trapsize 10372
+\i (00:00:03) trapsize 10186
+\i (00:00:03) trapsize 10404
+\i (00:00:03) trapsize 10599
+\i (00:00:03) trapsize 9189
+\i (00:00:03) trapsize 13682
+\i (00:00:03) generaledit 
+\i (00:00:06) place manual 
+\i (00:00:08) setwindow form.plc_manual
+\i (00:00:08) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:08) Placing IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32 on Top.
+\i (00:00:08) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:09) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:00:09) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:12) FORM plc_manual hide  
+\i (00:00:13) setwindow pcb
+\i (00:00:13) pick grid 12587.06 14092.04
+\t (00:00:13) last pick:  12600.00 14100.00
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:13) Placing IC2 / ATMEGA168-TQ32_0_MY_ATMEGA328_A / MY_ATMEGA328 on Top.
+\i (00:00:14) pick grid 23121.89 13708.96
+\t (00:00:14) last pick:  23100.00 13700.00
+\i (00:00:16) Esc 
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 28266.17 12121.89
+\i (00:00:17) trapsize 6841
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20154.23 13079.61
+\i (00:00:18) trapsize 3420
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 22055.97 13394.28
+\i (00:00:19) trapsize 6841
+\i (00:00:20) move 
+\t (00:00:20) Select element(s) to move.
+\i (00:00:20) pick grid 23068.41 13763.69
+\t (00:00:20) last pick:  23100.00 13800.00
+\t (00:00:20) last pick:  23100.00 13700.00
+\t (00:00:20) Moving IC2 / ATMEGA168-TQ32_0_MY_ATMEGA328_A / MY_ATMEGA328.
+\t (00:00:20) Pick new location for the element(s).
+\i (00:00:22) pick grid 13696.52 14146.78
+\t (00:00:22) last pick:  13700.00 14100.00
+\i (00:00:23) Esc 
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 11822.14 13763.69
+\i (00:00:23) trapsize 3420
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 12335.20 13893.67
+\i (00:00:24) trapsize 1710
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 12352.31 13903.93
+\i (00:00:24) trapsize 855
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 13113.35 13565.31
+\i (00:00:24) trapsize 428
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 13082.57 14040.70
+\i (00:00:27) trapsize 855
+\i (00:00:29) Esc 
+\i (00:00:29) pick grid 13373.31 13779.04
+\t (00:00:29) last pick:  13400.00 13800.00
+\i (00:03:15) pick grid 12887.61 14045.83
+\t (00:03:15) last pick:  12900.00 14000.00
+\t (00:03:15) last pick:  12600.00 14100.00
+\t (00:03:15) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:03:15) Pick new location for the element(s).
+\i (00:03:17) pick grid 12617.40 14150.15
+\t (00:03:17) last pick:  12600.00 14200.00
+\i (00:03:17) pick grid 12689.23 13772.20
+\t (00:03:17) last pick:  12700.00 13800.00
+\i (00:03:18) pick grid 12586.61 14127.92
+\t (00:03:18) last pick:  12600.00 14100.00
+\t (00:03:18) last pick:  12600.00 14200.00
+\t (00:03:18) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:03:18) Pick new location for the element(s).
+\i (00:03:18) pick grid 12605.43 13844.03
+\t (00:03:18) last pick:  12600.00 13800.00
+\i (00:03:18) pick grid 12460.06 14276.71
+\t (00:03:18) last pick:  12500.00 14300.00
+\i (00:03:19) pick grid 12555.83 13804.69
+\t (00:03:19) last pick:  12600.00 13800.00
+\t (00:03:19) last pick:  12600.00 13800.00
+\t (00:03:19) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:03:19) Pick new location for the element(s).
+\i (00:03:20) pick grid 12528.47 14061.22
+\t (00:03:20) last pick:  12500.00 14100.00
+\i (00:03:20) pick grid 12735.40 13719.18
+\t (00:03:20) last pick:  12700.00 13700.00
+\i (00:03:49) zoom in 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom in 12526.76 14050.96
+\i (00:03:49) trapsize 428
+\i (00:03:51) zoom in 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in 12225.77 14113.38
+\i (00:03:51) trapsize 214
+\i (00:03:51) zoom in 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in 12225.77 14113.38
+\i (00:03:51) trapsize 107
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out 12285.20 14102.69
+\i (00:03:52) trapsize 214
+\i (00:03:53) zoom out 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out 12813.21 14066.35
+\i (00:03:53) trapsize 428
+\i (00:03:55) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 12772.17 14049.25
+\i (00:03:55) trapsize 214
+\i (00:03:59) zoom out 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom out 12502.81 14119.37
+\i (00:03:59) trapsize 428
+\i (00:03:59) zoom out 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom out 12502.82 14119.37
+\i (00:03:59) trapsize 855
+\i (00:04:01) roam x 96 
+\i (00:04:01) roam x 96
+\i (00:04:01) roam x 96 
+\i (00:04:01) roam x 96
+\i (00:04:01) roam x 96 
+\i (00:04:01) roam x 96
+\i (00:04:02) roam x -96 
+\i (00:04:02) roam x -96
+\i (00:12:31) zoom in 1 
+\i (00:12:31) setwindow pcb
+\i (00:12:31) zoom in 12508.48 14032.15
+\i (00:12:31) trapsize 428
+\i (00:12:31) zoom in 1 
+\i (00:12:31) setwindow pcb
+\i (00:12:31) zoom in 12510.19 14025.31
+\i (00:12:31) trapsize 214
+\i (00:12:33) pick grid 12520.45 14044.13
+\t (00:12:33) last pick:  12500.00 14000.00
+\t (00:12:33) last pick:  12500.00 14100.00
+\t (00:12:33) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:12:33) Pick new location for the element(s).
+\i (00:12:33) zoom out 1 
+\i (00:12:33) setwindow pcb
+\i (00:12:33) zoom out 12506.34 14023.18
+\i (00:12:33) trapsize 428
+\i (00:12:34) zoom out 1 
+\i (00:12:34) setwindow pcb
+\i (00:12:34) zoom out 12510.62 14025.74
+\i (00:12:34) trapsize 855
+\i (00:12:35) pick grid 12543.11 14174.53
+\t (00:12:35) last pick:  12500.00 14200.00
+\i (00:12:36) pick grid 12553.37 14128.35
+\t (00:12:36) last pick:  12600.00 14100.00
+\t (00:12:36) last pick:  12500.00 14200.00
+\t (00:12:36) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:12:36) Pick new location for the element(s).
+\i (00:12:36) pick grid 12452.47 14083.89
+\t (00:12:36) last pick:  12500.00 14100.00
+\i (00:12:37) pick grid 12455.89 14089.02
+\t (00:12:37) last pick:  12500.00 14100.00
+\t (00:12:37) last pick:  12500.00 14100.00
+\t (00:12:37) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:12:37) Pick new location for the element(s).
+\i (00:12:38) pick grid 12505.48 14253.20
+\t (00:12:38) last pick:  12500.00 14300.00
+\i (00:12:39) pick grid 12505.48 14278.85
+\t (00:12:39) last pick:  12500.00 14300.00
+\t (00:12:39) last pick:  12500.00 14300.00
+\t (00:12:39) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:12:39) Pick new location for the element(s).
+\i (00:12:40) pick grid 12503.77 14249.78
+\t (00:12:40) last pick:  12500.00 14200.00
+\i (00:12:42) pick grid 12490.09 14229.25
+\t (00:12:42) last pick:  12500.00 14200.00
+\t (00:12:42) last pick:  12500.00 14200.00
+\t (00:12:42) Moving IC1 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:12:42) Pick new location for the element(s).
+\i (00:12:42) pick grid 12479.83 14148.87
+\t (00:12:42) last pick:  12500.00 14100.00
+\i (00:12:43) zoom in 1 
+\i (00:12:43) setwindow pcb
+\i (00:12:43) zoom in 12510.61 13960.75

@@ -1,0 +1,121 @@
+\t (00:01:15) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:15)     Journal start - Tue Jul 16 15:51:56 2019
+\t (00:01:15)         Host=USER-PC User=user Pid=6712 CPUs=4
+\t (00:01:15) CmdLine= allegro.exe -p .
+\t (00:01:15) 
+\d (00:01:15) Design opened: C:/Users/user/Desktop/exam/pcb_lib/psm/ssop28_ft232.dra
+\i (00:01:15) generaledit 
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 1.590 0.669
+\i (00:01:16) trapsize 51
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 1.984 0.821
+\i (00:01:16) trapsize 25
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 2.905 0.664
+\i (00:01:17) trapsize 13
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 2.633 0.735
+\i (00:01:18) trapsize 25
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 2.632 0.735
+\i (00:01:18) trapsize 51
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 4.604 0.543
+\i (00:01:19) trapsize 25
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 4.614 0.604
+\i (00:01:19) trapsize 13
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 4.448 0.713
+\i (00:01:20) trapsize 25
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 4.447 0.713
+\i (00:01:20) trapsize 51
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 4.448 0.713
+\i (00:01:20) trapsize 101
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 4.448 0.714
+\i (00:01:20) trapsize 190
+\i (00:01:22) open 
+\i (00:01:24) fillin "my_atmega128.dra"
+\t (00:01:24) Opening existing design...
+\i (00:01:24) trapsize 40
+\d (00:01:24) Design opened: C:/Users/user/Desktop/exam/pcb_lib/psm/my_atmega128.dra
+\i (00:01:24) generaledit 
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -6.196 -4.349
+\i (00:01:24) trapsize 80
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -6.212 -4.349
+\i (00:01:24) trapsize 160
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 6.423 -4.285
+\i (00:01:26) trapsize 80
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 6.423 -4.285
+\i (00:01:26) trapsize 40
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 6.880 -3.685
+\i (00:01:27) trapsize 20
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 5.340 -3.805
+\i (00:01:28) trapsize 40
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 5.340 -3.804
+\i (00:01:28) trapsize 80
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 5.341 -3.804
+\i (00:01:28) trapsize 160
+\i (00:01:30) open 
+\i (00:01:31) fillin "my_atmega328.dra"
+\t (00:01:31) Opening existing design...
+\i (00:01:31) trapsize 113
+\d (00:01:31) Design opened: C:/Users/user/Desktop/exam/pcb_lib/psm/my_atmega328.dra
+\i (00:01:31) generaledit 
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 2.957 -0.070
+\i (00:01:32) trapsize 57
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 3.387 -0.081
+\i (00:01:32) trapsize 28
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 3.241 -0.375
+\i (00:01:33) trapsize 57
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in -4.574 1.400
+\i (00:01:35) trapsize 28
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -4.308 1.135
+\i (00:01:36) trapsize 57
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -4.307 1.135
+\i (00:01:36) trapsize 113
+\i (00:03:33) exit 
+\t (00:03:34)     Journal end - Tue Jul 16 15:54:15 2019

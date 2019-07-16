@@ -1,0 +1,25 @@
+\t (00:01:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:28)     Journal start - Tue Jul 16 15:34:34 2019
+\t (00:01:28)         Host=USER-PC User=user Pid=6364 CPUs=4
+\t (00:01:28) CmdLine= allegro.exe -p .
+\t (00:01:28) 
+\d (00:01:28) Design opened: C:/Users/user/Desktop/exam/pcb_lib/psm/my_atmega128.dra
+\i (00:01:29) generaledit 
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out -5.468 -5.173
+\i (00:01:31) trapsize 80
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out -4.589 -4.997
+\i (00:01:31) trapsize 160
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out -4.045 -4.804
+\i (00:01:31) trapsize 320
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 1.215 1.722
+\i (00:01:32) trapsize 160
+\i (00:11:32) exit 
+\t (00:11:32)     Journal end - Tue Jul 16 15:44:38 2019
