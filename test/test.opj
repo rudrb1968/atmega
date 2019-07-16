@@ -7,8 +7,34 @@
     (File ".\test.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
-  (Folder "Outputs")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\TEST.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (ATmega168-TQ32
@@ -25,8 +51,9 @@
          "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "SCHEMATIC1")
       (Path "Design Resources"
          "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "Design Cache")
+      (Path "Outputs")
       (Select "Design Resources"
-         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn" "Design Cache"))
+         "C:\USERS\USER\DESKTOP\exam\pcb_lib\test\test.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -36,10 +63,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 211 1851 53 518")
-        (Scroll "398 156")
+        (Placement "44 2 3 -1 -1 -8 -30 211 1851 53 518")
+        (Scroll "656 236")
         (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\EXAM\PCB_LIB\TEST\TEST.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (ISPCBBASICLICENSE "false"))

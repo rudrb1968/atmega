@@ -209,3 +209,14 @@
 \i (00:12:43) zoom in 1 
 \i (00:12:43) setwindow pcb
 \i (00:12:43) zoom in 12510.61 13960.75
+\i (00:12:43) trapsize 428
+\i (00:12:44) pick grid 12854.36 13733.30
+\t (00:12:44) last pick:  12900.00 13700.00
+\i (00:14:10) zoom out 1 
+\i (00:14:10) setwindow pcb
+\i (00:14:10) zoom out 12785.95 13966.74
+\i (00:14:10) trapsize 855
+\i (00:39:14) exit 
+\e (00:39:14) Do you want to save the changes you made to TEST.brd?
+\i (00:39:15) fillin yes 
+\t (00:39:15)     Journal end - Tue Jul 16 17:33:24 2019

@@ -346,4 +346,25 @@
 \t (00:21:23) Pick new location for the element(s).
 \i (00:21:25) pick grid 130.842 193.210
 \t (00:21:25) last pick:  132.080 193.040
-\i (00:21:26) mo
+\i (00:21:26) move 
+\t (00:21:26) Select element(s) to move.
+\i (00:21:27) pick grid 166.491 193.009
+\t (00:21:27) last pick:  167.640 193.040
+\t (00:21:27) last pick:  167.640 193.040
+\t (00:21:27) Pick new location for the element(s).
+\i (00:21:29) pick grid 163.872 193.344
+\t (00:21:29) last pick:  165.100 193.040
+\i (00:21:31) move 
+\t (00:21:31) Select element(s) to move.
+\i (00:21:32) pick grid 136.313 203.683
+\t (00:21:32) last pick:  137.160 203.200
+\i (00:54:36) place manual 
+\i (00:54:43) setwindow form.plc_manual
+\i (00:54:43) FORM plc_manual tree  MY_ATMEGA328 'Package symbols' 
+\i (00:54:48) FORM plc_manual cancel  
+\i (00:54:48) setwindow pcb
+\i (00:54:48) generaledit 
+\i (01:34:48) exit 
+\e (01:34:48) Do you want to save the changes you made to unnamed.brd?
+\i (01:34:53) fillin yes 
+\t (01:34:53)     Journal end - Tue Jul 16 17:33:31 2019
